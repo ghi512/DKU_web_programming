@@ -1,0 +1,32 @@
+html, body {
+  background-color: aliceblue;
+  width : 100%;
+  margin: 0;
+}
+header {
+  background-color: yellow;
+  width: 100%; height: 20%;
+  float: left;
+  position: relative;
+}
+nav {
+  background-color: orange;
+  width: 15%; height: 1270px;
+  float: left;
+  position: relative;
+}
+section {
+  background-color: skyblue;
+  width: 85%; height: 100%;
+  float: left;
+  position: relative;
+}
+footer {
+  background-color: plum;
+  width: 100%; height: 10%;
+  float: left;
+  position: relative;
+}
+h1 {
+  text-align: center;
+}

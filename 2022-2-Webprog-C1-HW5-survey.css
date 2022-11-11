@@ -1,0 +1,38 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+h2 {
+  color: brown;
+  text-align: center;
+}
+#context {
+  font-family: "휴먼편지체";
+}
+header{
+  background-color: yellow;
+  width: 100%;
+  height: 15%;
+}
+form {
+  background-color: pink;
+  font-family: "휴먼편지체";
+  width: 100%;
+  height: 70%;
+  margin: 10px 10px 10px;
+}
+form > span {
+  color: blue;
+  font-size: 1.1em;
+  font-family: 'Arial';
+  font-weight: bold;
+
+}
+footer {
+  display: block;
+  width: 100%;
+  height: 15%;
+  background-color: rgb(119, 138, 188);
+  font-family: "휴먼편지체";
+}

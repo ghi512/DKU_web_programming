@@ -1,0 +1,23 @@
+h2 {
+  color: brown;
+  text-align: center;
+}
+#context {
+  font-family: "휴먼편지체";
+}
+form {
+  background-color: pink;
+  font-family: "휴먼편지체";
+}
+form > span {
+  color: blue;
+  font-size: 1.1em;
+  font-family: 'Arial';
+  font-weight: bold;
+
+}
+footer {
+  background-color: rgb(119, 138, 188);
+  border-radius: 10px;
+  font-family: "휴먼편지체";
+}
